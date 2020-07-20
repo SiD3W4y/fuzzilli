@@ -36,4 +36,5 @@ let profiles = [
     "v8": v8Profile,
     "duktape": duktapeProfile,
     "jerryscript": jerryscriptProfile,
+    "mujs": mujsProfile
 ]
